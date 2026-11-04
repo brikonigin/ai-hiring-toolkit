@@ -52,7 +52,15 @@ All reporting is aggregate; nothing is measured per person.
 
 ## About me
 
-[Add a short bio: your role, what you focus on, and how to reach you.]
+I'm Brianna Blackwood-Mallory, a Head of Talent and DEI strategist and the founder of Königin Consulting & Recruiting. I work with startups and small businesses that need to hire well without a large People team behind them.
+
+**Why I built this.** In small companies, hiring often depends on whoever is running it that week. Questions change from candidate to candidate, scorecards arrive late or not at all, and decisions drift toward gut feel and "culture fit." That is slow, and it is exactly where bias gets in. At the same time, pay transparency, AI-in-hiring and fair-chance laws now vary by state and city, and most small teams have no one checking every job post and interview plan. I built this toolkit to give a lean team the structure of a mature Talent function, without the overhead.
+
+**How it makes hiring more equitable.** Every candidate gets the same questions, in the same order, scored against written behavioral anchors. Requirements are written as skills and evidence instead of degrees or years of experience, which opens roles to people with nontraditional paths. Proxies for protected characteristics are flagged before they reach a job post or a debrief, and every compliance check is tied to the locations a role covers. Most importantly, people, not AI, make every hiring decision.
+
+**How it makes hiring more efficient.** The skills draft requirements, job descriptions, interview kits, debriefs and weekly updates in minutes, so recruiters and hiring managers spend their time with candidates instead of documents. Clear timelines and one-page debriefs keep roles moving. One configuration file means a new role, location or value is a single change, so the system grows with the company. And because the toolkit measures its own impact (days open, time from screen to offer, and whether interview scores predict 90-day ramp), teams can see what is working and fix what isn't.
+
+[Website](https://brikonigin.github.io/) · [LinkedIn](https://www.linkedin.com/in/brib)
 
 ---
 *Not legal advice. Compliance references reflect US rules as of October 2026.*
