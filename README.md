@@ -6,6 +6,8 @@ This toolkit turns a hiring process into six skills an AI assistant (built for C
 
 I designed and built these for a real Talent Acquisition function, then anonymized them for this portfolio. See [PRIVACY_AND_COMPLIANCE.md](PRIVACY_AND_COMPLIANCE.md) for exactly what was removed and why.
 
+> **Also see: [Hiring Pulse](https://github.com/brikonigin/hiring-pulse)**, a weekly decision dashboard that tells hiring teams what to do next. [Try the live demo](https://brikonigin.github.io/hiring-pulse/).
+
 ## Why it matters
 
 - **Fairness is built in, not bolted on.** Structured interviews (same questions, same order, behavior-based anchors) are among the most predictive and least biased hiring methods. These skills make structure the default, replace credential gates with job-related competencies, and strip proxies for protected characteristics.
